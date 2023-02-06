@@ -1,5 +1,5 @@
 Projeto individual do curso da resilia projeto Programadores Cariocas - SENAC RJ & Resilia.
-Responendo as perguntas!
+Respondendo as perguntas!
 
 "Existem outras entidades além dessas três?"
 Sim, além das entidades apresentadas (cursos, turmas e alunos), foi possivel adicionar mais 4 entidades, sendo elas:
