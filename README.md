@@ -17,3 +17,4 @@ bom, em cada uma dessas modelagens, temos relacionamentos entre as entidades atr
  Não existem problemas de relacionamentos, ou seja, dependendo das quantidades de entidades podem ocorrer ainda mais interações!
  Exemplo : 1:N.
 
+![sistema resilia](https://user-images.githubusercontent.com/113534912/217072094-24901f11-86e6-48b2-90f3-aad89d0e92c2.jpg)
